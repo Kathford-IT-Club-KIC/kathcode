@@ -1,54 +1,30 @@
-# Starlight Starter Kit: Basics
+# KathCode Hackathon
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+Welcome to KathCode, a 48-hour hackathon focused on innovation and sustainability!
 
-```
-npm create astro@latest -- --template starlight
-```
+## About
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/starlight/tree/main/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/starlight/tree/main/examples/basics)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwithastro%2Fstarlight%2Ftree%2Fmain%2Fexamples%2Fbasics&project-name=my-starlight-docs&repository-name=my-starlight-docs)
+KathCode is organized by Kathford IT Club, aiming to bring together students, developers, designers, and tech enthusiasts to collaborate and create innovative solutions to real-world problems. The hackathon provides a platform for participants to pitch their ideas, develop prototypes, and present their solutions to a panel of judges.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Event Details
 
-## 🚀 Project Structure
+- **Date:** 7th and 8th of Asar, 2081
+- **Location:** Kathford IT block
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+## How to Participate
 
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   ├── docs/
-│   │   └── config.ts
-│   └── env.d.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
-```
+To participate in KathCode, please register through the Google Form linked in the [Registration section](#registration) below. Make sure to read the [Rules](#rules) and familiarize yourself with the event details.
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+## Registration
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+To register for KathCode, please fill out the [registration form](https://forms.gle/vvubX45GGVV3evXE8) and submit the registration fee of NRs 2000.
 
-Static assets, like favicons, can be placed in the `public/` directory.
+## Rules
 
-## 🧞 Commands
+Before participating in KathCode, please review the [rules and guidelines](/rules/rules/) for the hackathon.
 
-All commands are run from the root of the project, from a terminal:
+## Contact
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+If you have any questions or need further information, please contact us at itclub@kathford.edu.np.
 
-## 👀 Want to learn more?
-
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+We look forward to your participation in KathCode Hackathon!
