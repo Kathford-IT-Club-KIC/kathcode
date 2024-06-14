@@ -39,6 +39,10 @@ export default defineConfig({
           label: "Sponsor",
           items: [{ label: "Sponsorship", link: "/sponsorship/sponsor/" }],
         },
+        {
+          label: "Contact",
+          items: [{ label: "Contact us", link: "/contacts/contact/" }],
+        },
       ],
     }),
   ],
