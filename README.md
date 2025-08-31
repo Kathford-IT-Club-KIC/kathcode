@@ -1,6 +1,6 @@
 # KathCode Hackathon
 
-Welcome to KathCode, a 48-hour hackathon focused on innovation and sustainability!
+Welcome to KathCode, a 72-hour hackathon focused on innovation and sustainability!
 
 ## About
 
@@ -8,7 +8,7 @@ KathCode is organized by Kathford IT Club, aiming to bring together students, de
 
 ## Event Details
 
-- **Date:** 7th and 8th of Asar, 2081
+- **Date:** 1st to 4th of Asar, 2082
 - **Location:** Kathford IT block
 
 ## How to Participate
@@ -17,7 +17,7 @@ To participate in KathCode, please register through the Google Form linked in th
 
 ## Registration
 
-To register for KathCode, please fill out the [registration form](https://forms.gle/vvubX45GGVV3evXE8) and submit the registration fee of NRs 2000.
+To register for KathCode, please fill out the [registration form](https://www.kathcode.kathford.edu.np/register) and submit the registration fee of NRs 5000 (After selection).
 
 ## Rules
 
